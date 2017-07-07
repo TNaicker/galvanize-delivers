@@ -30,7 +30,6 @@ Here's the marketing copy for the landing page.
 >
 > Money: You've got it, we want it. But let it never be said we're not incredibly fair! Burger sales? Check. Pizza sales? Check. Burger and pizza sales?? Check, check, check! We seriously can't stop making deals.
 
-**TIP:** The shopping, shipping, and ATM icons are [Material Icons](https://design.google.com/icons/).
 
 ## The ordering page
 
@@ -55,7 +54,7 @@ Using custom JavaScript, the page should also allow a user to do the following.
   - If the receipt has no menu items or any of the textfields are blank, they should see a validation message in a toast.
   - Otherwise, they should see a success message in a toast.
 
-## Responsive Design
+## Bonus: Responsive Design
 
 Make the ordering page so it's responsive under [medium](screenshots/order_medium.png) and [small](screenshots/order_small.png) viewports.
 
@@ -64,14 +63,3 @@ Make the ordering page so it's responsive under [medium](screenshots/order_mediu
 1. Ensure the menu's cards collapse into one-column on medium viewports.
 1. Ensure the main section's menu and order collapse into one-column on small viewports.
 1. Read the footer's name, tagline, and links collapse into one-column on small viewports.
-
-## Deployment
-
-Review the following articles on the Surge platform and then deploy your website to production.
-
-- [Getting started with Surge](http://surge.sh/help/getting-started-with-surge)
-- [Remembering a domain](http://surge.sh/help/remembering-a-domain)
-
-A good domain name for this project is `USERNAME-galvanize-delivers.surge.sh` where `USERNAME` is your GitHub username in all **lowercase** letters. Once deployed and everything works as you expect, copy the URL to your site and paste it below.
-
-PASTE YOUR PRODUCTION URL HERE
