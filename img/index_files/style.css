@@ -1,0 +1,44 @@
+.container{
+  width: 1100px;
+  height: 750px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+.top{
+  width: 95%;
+  border: 1px solid black;
+  height: 27%;
+  margin: 0 auto;
+  margin-top: 32px;
+}
+.mid{
+  width: 95%;
+  border: 1px solid black;
+  height: 27%;
+  margin: 0 auto;
+  margin-top: 32px;
+}
+.low{
+  width: 95%;
+  border: 1px solid black;
+  height: 27%;
+  margin: 0 auto;
+  margin-top: 32px;
+}
+
+.box{
+  width: 25%;
+  height: 80%;
+  border: 1px solid black;
+  margin-top: 18px;
+  margin-left: 18px;
+  display: inline-block;
+}
+.text{
+  display: inline-block;
+  width: 70%;
+  height: 80%;
+  border: 1px solid black;
+  margin-left: 18px;
+  padding-top: 30px;
+}

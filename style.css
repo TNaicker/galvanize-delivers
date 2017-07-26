@@ -1,0 +1,101 @@
+/*div{
+  border: 1px solid black;
+}*/
+.box{
+  border: 1px solid red;
+}
+.everything{
+  width: 100%;
+  /*box-shadow: inset 1px 1px 10px 1px rgba(0, 0, 0, 0.5);*/
+}
+.header{
+  background-color: blue;
+  color: white;
+}
+.hero{
+  background-image: url("img/hero.jpg");
+  width: 100%;
+  height: 100%;
+  border-radius: 0;
+}
+.jumbotron{
+  height: 450px;
+  width: 100%;
+  color: white;
+}
+h1{
+  text-align: center;
+  padding-top: 130px;
+}
+.menuText {
+  text-align: left;
+  padding-top: 10px;
+  /*margin-left: 120px;*/
+}
+.order{
+  margin-left: 43%;
+  margin-top: 10px;
+  border-radius: 0;
+  background-color: #d81b60;
+}
+.upper-center{
+  height: 180px;
+  width: 100%;
+  padding-left: 10px;
+}
+h3{
+  color: #d81b60;
+}
+.bottom-center{
+  background-color: #1976D2;
+  color: white;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+}
+.bottom-center p{
+  margin-top: 10px;
+}
+.footer{
+  background-color: #0D47A1;
+  color: white;
+  width: 100%;
+  padding-left: 10px;
+}
+.navbar {
+    background-color: #1976D2;
+    margin-bottom: 0;
+    border-radius: 0;
+    width: 100%;
+}
+
+#ordering{
+  display: inline-block;
+  margin: 0 auto;
+  margin-left: 120px;
+  width: 45%;
+}
+#total{
+  display: inline-block;
+  margin: 0 auto;
+  float: right;
+  margin-right: 150px;
+  width: 30%;
+}
+.panBod {
+  height: 100px;
+}
+.panFoot{
+  height: 60px;
+  background-color: white;
+}
+
+.info {
+  border: none;
+  border-bottom: 3px solid red;
+  width: 100%;
+}
+.orderInfo {
+  color: grey;
+  margin-bottom: 10px;
+}
